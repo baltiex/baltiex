@@ -7,8 +7,8 @@ Some resources for getting started with Elixir.
 Visit the [Elixir site](http://elixir-lang.org).
 
 Pragmatic Programmers 
-[Short Video](https://www.youtube.com/watch?v=hht9s6nAAx8&feature=youtu.be).
-[Longer intro](https://www.youtube.com/watch?v=a-off4Vznjs&feature=youtu.be)
+- [Short Video](https://www.youtube.com/watch?v=hht9s6nAAx8&feature=youtu.be).
+- [Longer intro](https://www.youtube.com/watch?v=a-off4Vznjs&feature=youtu.be)
 
 ### Installation
 [Installing Elixir](http://elixir-lang.org/install.html)

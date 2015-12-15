@@ -18,7 +18,7 @@ Pragmatic Programmers
 
 Learning step-by-step [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642). 
 
-Practice exercises at [Exercism.io](http://exercism.io).
+Practice exercises at [Exercism.io](http://exercism.io/languages/elixir).
 
 [Cheat sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf).
 

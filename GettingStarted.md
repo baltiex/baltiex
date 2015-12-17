@@ -16,11 +16,11 @@ Pragmatic Programmers
 
 ### Learning and Practicing
 
-Learning step-by-step [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642). 
-
-Practice exercises at [Exercism.io](http://exercism.io/languages/elixir).
-
-[Cheat sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf).
+* [Cheat sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
+* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642): Learning step-by-step 
+* [Exercism.io](http://exercism.io/languages/elixir): Practice exercises
+* [Elixir Golf](http://elixirgolf.com/): Simple problems to solve in the fewest number of characters. The completed ones have very clever solutions.
+* [Advent of Code](http://adventofcode.com): Small code problems to work through
 
 
 ### Phoenix Framework

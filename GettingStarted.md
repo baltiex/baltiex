@@ -1,12 +1,16 @@
 # Elixir |> Baltimore
 
+Talk to the community in the #baltimore channel in the [Elixir Lang Slack Channel](https://elixir-lang.slack.com)
+
+Come to the next [Baltimore Elixir Meetup](http://www.meetup.com/Elixir-Baltimore/)
+
 ## Getting Started
 
 Some resources for getting started with Elixir.
 
 Visit the [Elixir site](http://elixir-lang.org).
 
-Pragmatic Programmers 
+Pragmatic Programmers
 - [Short Video](https://www.youtube.com/watch?v=hht9s6nAAx8&feature=youtu.be).
 - [Longer intro](https://www.youtube.com/watch?v=a-off4Vznjs&feature=youtu.be)
 
@@ -17,7 +21,7 @@ Pragmatic Programmers
 ### Learning and Practicing
 
 * [Cheat sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
-* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642): Learning step-by-step 
+* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642): Learning step-by-step
 * [Exercism.io](http://exercism.io/languages/elixir): Practice exercises
 * [Elixir Golf](http://elixirgolf.com/): Simple problems to solve in the fewest number of characters. The completed ones have very clever solutions.
 * [Advent of Code](http://adventofcode.com): Small code problems to work through
